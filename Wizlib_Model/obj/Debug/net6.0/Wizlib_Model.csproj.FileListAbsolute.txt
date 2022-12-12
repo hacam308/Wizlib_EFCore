@@ -1,0 +1,12 @@
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_Model\bin\Debug\net6.0\Wizlib_Model.deps.json
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_Model\bin\Debug\net6.0\Wizlib_Model.dll
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_Model\bin\Debug\net6.0\Wizlib_Model.pdb
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_Model\obj\Debug\net6.0\Wizlib_Model.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_Model\obj\Debug\net6.0\Wizlib_Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_Model\obj\Debug\net6.0\Wizlib_Model.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_Model\obj\Debug\net6.0\Wizlib_Model.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_Model\obj\Debug\net6.0\Wizlib_Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_Model\obj\Debug\net6.0\Wizlib_Model.dll
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_Model\obj\Debug\net6.0\refint\Wizlib_Model.dll
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_Model\obj\Debug\net6.0\Wizlib_Model.pdb
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_Model\obj\Debug\net6.0\ref\Wizlib_Model.dll

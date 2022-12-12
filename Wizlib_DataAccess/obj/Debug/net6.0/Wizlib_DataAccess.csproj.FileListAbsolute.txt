@@ -1,0 +1,17 @@
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_DataAccess\bin\Debug\net6.0\Wizlib_DataAccess.deps.json
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_DataAccess\bin\Debug\net6.0\Wizlib_DataAccess.runtimeconfig.json
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_DataAccess\bin\Debug\net6.0\Wizlib_DataAccess.dll
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_DataAccess\bin\Debug\net6.0\Wizlib_DataAccess.pdb
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_DataAccess\bin\Debug\net6.0\Wizlib_Model.dll
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_DataAccess\bin\Debug\net6.0\Wizlib_Model.pdb
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_DataAccess\obj\Debug\net6.0\Wizlib_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_DataAccess\obj\Debug\net6.0\Wizlib_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_DataAccess\obj\Debug\net6.0\Wizlib_DataAccess.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_DataAccess\obj\Debug\net6.0\Wizlib_DataAccess.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_DataAccess\obj\Debug\net6.0\Wizlib_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_DataAccess\obj\Debug\net6.0\Wizlib_DataAccess.csproj.CopyComplete
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_DataAccess\obj\Debug\net6.0\Wizlib_DataAccess.dll
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_DataAccess\obj\Debug\net6.0\refint\Wizlib_DataAccess.dll
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_DataAccess\obj\Debug\net6.0\Wizlib_DataAccess.pdb
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_DataAccess\obj\Debug\net6.0\Wizlib_DataAccess.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\HN22_FR_.NET_07\EF\Wizlib\Wizlib_DataAccess\obj\Debug\net6.0\ref\Wizlib_DataAccess.dll
